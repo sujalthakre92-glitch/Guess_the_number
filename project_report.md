@@ -144,7 +144,7 @@ The secret number was: 42
 ============================================================
                       GAME SUMMARY                      
 ============================================================
-Player Name: Alex
+Player Name: Sujal
 Total Levels Cleared: 0 out of 5
 Highest Level Record: Level 0
 Lifelines Left: 0
