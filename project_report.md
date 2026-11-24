@@ -97,44 +97,44 @@ GAME GUIDELINES:
 9. If all lifelines are used, the game ends immediately.
 ============================================================
 
-Enter your name to start playing: Alex
+Enter your name to start playing: Sujal
 
-Hello, Alex! Let's begin the game. Good luck!
+Hello, Sujal! Let's begin the game. Good luck!
 
 
 ==================== LEVEL 1 ====================
 Lifelines available: 5
 
 Lifelines remaining: 5
-[Alex] Guess a number between 1 and 100: abc
+[Sujal] Guess a number between 1 and 100: abc
 Invalid input. Enter a whole number.
 
 Lifelines remaining: 5
-[Alex] Guess a number between 1 and 100: 150
+[Sujal] Guess a number between 1 and 100: 150
 Out of range. Enter a number between 1 and 100.
 
 Lifelines remaining: 5
-[Alex] Guess a number between 1 and 100: 10
+[Sujal] Guess a number between 1 and 100: 10
 Too low!
 Lifelines left: 4
 
 Lifelines remaining: 4
-[Alex] Guess a number between 1 and 100: 90
+[Sujal] Guess a number between 1 and 100: 90
 Too high!
 Lifelines left: 3
 
 Lifelines remaining: 3
-[Alex] Guess a number between 1 and 100: 50
+[Sujal] Guess a number between 1 and 100: 50
 Too high!
 Lifelines left: 2
 
 Lifelines remaining: 2
-[Alex] Guess a number between 1 and 100: 30
+[Sujal] Guess a number between 1 and 100: 30
 Too low!
 Lifelines left: 1
 
 Lifelines remaining: 1
-[Alex] Guess a number between 1 and 100: 20
+[Sujal] Guess a number between 1 and 100: 20
 Too low!
 Lifelines left: 0
 
@@ -163,17 +163,17 @@ Thanks for playing 'Guess The Number'! Goodbye!
 Lifelines available: 5
 
 Lifelines remaining: 5
-[Alex] Guess a number between 1 and 100: 1
+[Sujal] Guess a number between 1 and 100: 1
 Too low!
 Lifelines left: 4
 
 Lifelines remaining: 4
-[Alex] Guess a number between 1 and 100: 100
+[Sujal] Guess a number between 1 and 100: 100
 Too high!
 Lifelines left: 3
 
 Lifelines remaining: 3
-[Alex] Guess a number between 1 and 100: 42
+[Sujal] Guess a number between 1 and 100: 42
 
 Congratulations! You cleared Level 1!
 Lifelines remaining: 3
@@ -184,7 +184,7 @@ Well done! Get ready for Level 2.
 Lifelines available: 3
 
 Lifelines remaining: 3
-[Alex] Guess a number between 1 and 100: 42
+[Sujal] Guess a number between 1 and 100: 42
 
 Congratulations! You cleared Level 2!
 Lifelines remaining: 3
@@ -199,7 +199,7 @@ You are the ultimate Number Guessing Champion!
 ============================================================
                       GAME SUMMARY                      
 ============================================================
-Player Name: Alex
+Player Name: Sujal
 Total Levels Cleared: 5 out of 5
 Highest Level Record: Level 5
 Lifelines Left: 3
